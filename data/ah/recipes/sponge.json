@@ -1,0 +1,22 @@
+   {
+       "type": "minecraft:crafting_shaped",
+       "pattern": [
+           "121",
+           "232",
+           "121"
+       ],
+       "key": {
+           "1": {
+               "item": "minecraft:horn_coral_fan"
+           },
+           "2": {
+               "item": "minecraft:string"
+           },
+           "3": {
+               "item": "minecraft:hay_block"
+           }
+       },
+       "result": {
+           "item": "minecraft:sponge"
+       }
+   }

@@ -1,0 +1,22 @@
+   {
+       "type": "minecraft:crafting_shaped",
+       "pattern": [
+           "   ",
+           "121",
+           "131"
+       ],
+       "key": {
+           "1": {
+               "item": "minecraft:glistering_melon_slice"
+           },
+           "2": {
+               "item": "minecraft:totem_of_undying"
+           },
+           "3": {
+               "item": "minecraft:salmon"
+           }
+       },
+       "result": {
+           "item": "minecraft:salmon_spawn_egg"
+       }
+   }

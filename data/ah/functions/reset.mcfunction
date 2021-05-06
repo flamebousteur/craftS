@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"craftS+> ","color":"green","bold":false},{"text":"Data Pack has been updated!","color":"none","bold":false}]
+tellraw @a ["",{"text":"craftS+> ","color":"green","bold":false},{"text":"thanks for using craftS+ created by Flamebousteur","color":"yellow","bold":false}]

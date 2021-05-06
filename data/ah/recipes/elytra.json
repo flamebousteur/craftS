@@ -1,0 +1,25 @@
+   {
+       "type": "minecraft:crafting_shaped",
+       "pattern": [
+           "121",
+           "434",
+           "4 4"
+       ],
+       "key": {
+           "1": {
+               "item": "minecraft:feather"
+           },
+           "2": {
+               "item": "netherite_ingot"
+           },
+           "3": {
+               "item": "string"
+           },
+           "4": {
+               "item": "phantom_membrane"
+           }
+       },
+       "result": {
+           "item": "minecraft:elytra"
+       }
+   }

@@ -1,0 +1,22 @@
+   {
+       "type": "minecraft:crafting_shaped",
+       "pattern": [
+           "   ",
+           "121",
+           "131"
+       ],
+       "key": {
+           "1": {
+               "item": "minecraft:glistering_melon_slice"
+           },
+           "2": {
+               "item": "minecraft:totem_of_undying"
+           },
+           "3": {
+               "item": "minecraft:tropical_fish"
+           }
+       },
+       "result": {
+           "item": "minecraft:tropical_fish_spawn_egg"
+       }
+   }

@@ -1,0 +1,28 @@
+   {
+       "type": "minecraft:crafting_shaped",
+       "pattern": [
+           "141",
+           "323",
+           "151"
+       ],
+       "key": {
+           "1": {
+               "item": "minecraft:iron_bars"
+           },
+           "2": {
+               "item": "minecraft:nether_star"
+           },
+           "3": {
+               "item": "minecraft:dragon_breath"
+           },
+           "4": {
+               "item": "minecraft:totem_of_undying"
+           },
+           "5": {
+               "item": "end_crystal"
+           }
+       },
+       "result": {
+           "item": "minecraft:spawner"
+       }
+   }
